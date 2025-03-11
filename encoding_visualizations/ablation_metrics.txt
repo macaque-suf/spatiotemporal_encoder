@@ -1,0 +1,17 @@
+ABLATION COMPARISON METRICS
+===========================
+
+Total Variance in Encoding Space:
+  Trained Model: 66.9557
+  Baseline Model: 33.9270
+  Ratio (Trained/Baseline): 1.9735
+
+Trajectory Smoothness (avg. distance between points):
+  Trained Model: 1.0215
+  Baseline Model: 0.7443
+  Ratio (Trained/Baseline): 1.3723
+
+Temporal Correlation (time vs. distance along trajectory):
+  Trained Model: 0.9981
+  Baseline Model: 0.9994
+  Difference (Trained - Baseline): -0.0013

@@ -1,0 +1,27 @@
+DIMENSIONALITY ANALYSIS METRICS
+===============================
+
+Pattern: GRID
+  Dimensions for 90% variance: 39
+  Dimensions for 99% variance: 57
+  Participation ratio: 38.1555
+  Top 5 components explain: 21.73% of variance
+
+Pattern: SPIRAL
+  Dimensions for 90% variance: 39
+  Dimensions for 99% variance: 57
+  Participation ratio: 38.1606
+  Top 5 components explain: 21.72% of variance
+
+Pattern: RANDOM
+  Dimensions for 90% variance: 39
+  Dimensions for 99% variance: 57
+  Participation ratio: 38.1594
+  Top 5 components explain: 21.72% of variance
+
+Pattern: CLUSTERS
+  Dimensions for 90% variance: 39
+  Dimensions for 99% variance: 57
+  Participation ratio: 38.1596
+  Top 5 components explain: 21.72% of variance
+
